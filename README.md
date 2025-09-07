@@ -47,13 +47,11 @@ source venv/bin/activate   # macOS/Linux
 venv\Scripts\activate      # Windows
 
 
-
-
 pip install -r requirements.txt
 
 
 GROQ_API_KEY=
-FOLDER_PATH=               # Path to your local PDF folder
+FOLDER_PATH=               # Path to your local PDF Data folder
 PINECONE_API_KEY=
 PINECONE_ENVIRONMENT=us-east-1-aws
 INDEX_NAME=
