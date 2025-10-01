@@ -51,7 +51,7 @@ pip install -r requirements.txt
 
 
 GROQ_API_KEY=
-FOLDER_PATH= # Path to your local PDF Data folder
+FOLDER_PATH=
 PINECONE_API_KEY=
 PINECONE_ENVIRONMENT=
 INDEX_NAME=
