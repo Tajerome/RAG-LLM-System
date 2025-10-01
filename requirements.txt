@@ -1,0 +1,10 @@
+gradio
+groq
+langchain
+langchain-core
+pinecone-client
+python-dotenv
+requests
+scikit-learn
+sentence-transformers
+
