@@ -51,9 +51,9 @@ pip install -r requirements.txt
 
 
 GROQ_API_KEY=
-FOLDER_PATH=               # Path to your local PDF Data folder
+FOLDER_PATH= # Path to your local PDF Data folder
 PINECONE_API_KEY=
-PINECONE_ENVIRONMENT=us-east-1-aws
+PINECONE_ENVIRONMENT=
 INDEX_NAME=
-GOOGLE_API_KEY=            # Optional
-GOOGLE_SEARCH_ENGINE_ID=   # Optional
+GOOGLE_API_KEY=
+GOOGLE_SEARCH_ENGINE_ID=
